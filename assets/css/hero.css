@@ -1,6 +1,7 @@
 .hero{
     background-image: url(../images/flores-pequeno.png);
     background-size: auto 40rem;
+    background-blend-mode: color-burn;
     background-repeat: no-repeat;
     background-position: bottom center;
     background-color: var(--hero-background);
